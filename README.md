@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shuvrosu
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning Programming
